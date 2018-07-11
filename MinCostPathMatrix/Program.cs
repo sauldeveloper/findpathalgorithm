@@ -9,8 +9,7 @@ namespace MinCostPathMatrix
     class Program
     {
         
-        // A utility function that 
-        // returns minimum of 3 integers 
+        // A utility function that returns minimum of 3 integers 
         private static int min(int x, int y, int z)
         {
             if (x < y)
@@ -27,8 +26,6 @@ namespace MinCostPathMatrix
             int[,] tc = new int[r + 1, c + 1];
 
             tc[0, 0] = cost[0, 0];
-
-            //Console.WriteLine(cost[5, 5]);
 
             int sumTC = 0;
             /* Initialize first column of total cost(tc) array */
@@ -89,7 +86,6 @@ namespace MinCostPathMatrix
                     tc[i - 1, j - 1] = min(cost[rowUP, j],
                                                     cost[i - 1, j],
                                                     cost[rowDN, j]) + cost[i - 1, j - 1];
-
 
 
                     //tc[i - 1, j - 1] = min(tc[row - 2, j],
