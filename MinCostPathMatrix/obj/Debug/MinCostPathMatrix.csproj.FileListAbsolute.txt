@@ -1,0 +1,7 @@
+E:\Xamarin\_EXAMPLE Code\Console Code\MinCostPathMatrix\MinCostPathMatrix\bin\Debug\MinCostPathMatrix.exe.config
+E:\Xamarin\_EXAMPLE Code\Console Code\MinCostPathMatrix\MinCostPathMatrix\bin\Debug\MinCostPathMatrix.exe
+E:\Xamarin\_EXAMPLE Code\Console Code\MinCostPathMatrix\MinCostPathMatrix\bin\Debug\MinCostPathMatrix.pdb
+E:\Xamarin\_EXAMPLE Code\Console Code\MinCostPathMatrix\MinCostPathMatrix\obj\Debug\MinCostPathMatrix.csprojAssemblyReference.cache
+E:\Xamarin\_EXAMPLE Code\Console Code\MinCostPathMatrix\MinCostPathMatrix\obj\Debug\MinCostPathMatrix.csproj.CoreCompileInputs.cache
+E:\Xamarin\_EXAMPLE Code\Console Code\MinCostPathMatrix\MinCostPathMatrix\obj\Debug\MinCostPathMatrix.exe
+E:\Xamarin\_EXAMPLE Code\Console Code\MinCostPathMatrix\MinCostPathMatrix\obj\Debug\MinCostPathMatrix.pdb
